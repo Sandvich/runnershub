@@ -104,6 +104,6 @@ pip-selfcheck.json
 # mypy
 .mypy_cache/
 
-# SQLite db
-.sqlite3
-.db
+# SQLite
+db.sqlite3
+test.db
