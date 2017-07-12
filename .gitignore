@@ -87,6 +87,7 @@ celerybeat-schedule
 venv/
 ENV/
 backend/bin
+backend/lib64
 backend/include
 pip-selfcheck.json
 
